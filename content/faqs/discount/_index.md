@@ -1,6 +1,6 @@
 ---
 head_name: "Discounts FAQ"
-page_title: "Discounts FAQ - Purchase - aspose.com"
+page_title: "Discounts FAQ - Purchase - groupdocs.com"
 description: "FAQs on how we apply discounts and how you can request one."
 base_url: ""
 ---
@@ -13,7 +13,7 @@ base_url: ""
 5. [Can I downgrade an order for a discount?](/faqs/discount#5)
 6. [Is there a discount for purchasing several products/licenses/subscription years in a single order?](/faqs/discount#6)
 7. [I'm a returning customer, are there any discounts for me?](/faqs/discount#7)
-8. [I am currently using your competitor's product, is there any discount for me to change to Aspose?](/faqs/discount#8)
+8. [I am currently using your competitor's product, is there any discount for me to change to GroupDocs?](/faqs/discount#8)
 
 &nbsp;  
 ##### **1. Is there a discount for government agencies?**
@@ -37,9 +37,9 @@ base_url: ""
 
 &nbsp;  
 ##### **6. Is there a discount for purchasing several products/licenses/subscription years in a single order?**  
-{{< faqs 7 >}}There is a discount for purchasing multiple licenses which increases with each license purchased. To view the discount check out the [online pricing wizard](https://purchase.aspose.com/buy). 
+{{< faqs 7 >}}There is a discount for purchasing multiple licenses which increases with each license purchased. To view the discount check out the [online pricing wizard](https://purchase.groupdocs.com/buy). 
 
-There is no discount for purchasing several individual products, instead we suggest customers to purchase Aspose.Total which contains all products for a single platform for large discount.
+There is no discount for purchasing several individual products, instead we suggest customers to purchase GroupDocs.Total which contains all products for a single platform for large discount.
 
 There is no discount for purchasing a multiple year subscription.  
 
@@ -48,12 +48,12 @@ There is no discount for purchasing a multiple year subscription.
 {{< faqs 8 >}}There are no discounts for customers with existing orders unless you have an active subscription and can [upgrade](/policies/upgrades).
 
 &nbsp;  
-##### **8. I am currently using your competitor's product, is there any discount for me to change to Aspose?**
+##### **8. I am currently using your competitor's product, is there any discount for me to change to GroupDocs?**
 {{< faqs 9 >}}Yes, check our [Competitive Upgrade](/policies/discounts/competitive-upgrade) policy for further details.  
 
 
 {{< questions-start >}}
 ##### **Questions?**
-If you have any questions or problems, please feel free to [contact our sales support](https://about.aspose.com/contact/) who will be glad to assist.
+If you have any questions or problems, please feel free to [contact our sales support](https://about.groupdocs.com/contact/) who will be glad to assist.
 {{< questions-end >}}
 {{< end-content >}}

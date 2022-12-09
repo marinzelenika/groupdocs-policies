@@ -1,6 +1,6 @@
 ---
 head_name: "Reselling FAQ"
-page_title: "Reseller FAQ - Purchase - aspose.com"
+page_title: "Reseller FAQ - Purchase - groupdocs.com"
 description: "Frequently asked questions for resellers."
 base_url: ""
 ---
@@ -30,13 +30,13 @@ The reselling process in simple. After the initial setup, you can sell our produ
 &nbsp;  
 
 ##### **How do I become an authorized reseller?**
-{{< faqs 3 >}} If you have a customer who needs to purchase Aspose products through you, you can become an authorized reseller:
+{{< faqs 3 >}} If you have a customer who needs to purchase GroupDocs products through you, you can become an authorized reseller:
 
 1. Create an account on on our website.
 This account is used for forums, purchase and reseller systems.
 2. Log in.
-3. Email [sales@aspose.com](mailto:sales@aspose.com) with brief information about your business and why you need to become an authorized Aspose reseller.
-4. Our staff will review your request. If it is accepted, you will list both Aspose and GroupDocs products on your website, agree to our [terms](/policies/resellers/terms) and you will be given a discount rate.
+3. Email [sales@groupdocs.com](mailto:sales@groupdocs.com) with brief information about your business and why you need to become an authorized GroupDocs reseller.
+4. Our staff will review your request. If it is accepted, you will list both GroupDocs and GroupDocs products on your website, agree to our [terms](/policies/resellers/terms) and you will be given a discount rate.
 5. You are now able to place orders for your customers.
 
 &nbsp;  
@@ -79,14 +79,14 @@ If a reseller is requested by a customer to seek technical support, that must be
 &nbsp;  
 
 ##### **Can I have a signed Reseller Agreement?**
-{{< faqs 10 >}} No, simply by agreeing to be a Aspose Reseller you agree to our [Reseller Terms](/policies/resellers/terms). Like our self-service [Product EULA](https://about.aspose.com/legal/eula/), this helps keep us stay efficient and [Paper Free](https://about.aspose.com/legal/paperless-policy/).
+{{< faqs 10 >}} No, simply by agreeing to be a GroupDocs Reseller you agree to our [Reseller Terms](/policies/resellers/terms). Like our self-service [Product EULA](https://about.groupdocs.com/legal/eula/), this helps keep us stay efficient and [Paper Free](https://about.groupdocs.com/legal/paperless-policy/).
 
 **Note:** Order details and license details are also available from the order section of the purchase system. You have access to the order information and price details; your customer has access to the license file, general information about the order such as order ID, and SKU. They do not have visibility of the price information.
 
 &nbsp;  
 
 ##### **For US resellers, how is tax applied to reseller orders?**
-{{< faqs 11 >}} For Reseller orders, the application of US sales tax is based on the location of the Reseller and not the location of the customer.  If a valid reseller exemption certificate has not been supplied at the time of order, then US sales tax will automatically be applied to the order.  Please [contact us](https://about.aspose.com/contact/) if you need to submit a new or updated reseller exemption certificate.
+{{< faqs 11 >}} For Reseller orders, the application of US sales tax is based on the location of the Reseller and not the location of the customer.  If a valid reseller exemption certificate has not been supplied at the time of order, then US sales tax will automatically be applied to the order.  Please [contact us](https://about.groupdocs.com/contact/) if you need to submit a new or updated reseller exemption certificate.
 
 &nbsp;  
 

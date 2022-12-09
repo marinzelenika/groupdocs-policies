@@ -1,6 +1,6 @@
 ---
 head_name: "Metered Licensing FAQ"
-page_title: "Metered Licensing FAQ - Purchase - aspose.com"
+page_title: "Metered Licensing FAQ - Purchase - groupdocs.com"
 description: "Metered licenses are a form of pay as you use licensing for .NET and Java. Instead of paying upfront as with a standard license, you will pay for your usage monthly."
 base_url: ""
 ---
@@ -21,7 +21,7 @@ base_url: ""
 
 &nbsp;  
 ##### **1. What are Metered licenses and how do they work compared to other license types?**
-{{< faqs 2 >}} Metered licenses are a form of "pay as you use" licensing for .NET and Java. When you purchase a Metered License you will receive a Public/Private Key pair to be set in your code instead of the usual license file; and instead of paying 'upfront' as with a standard license, you will pay for your usage monthly. When you use a Metered License your usage is recorded locally and regularly reported back to our servers, you are then billed monthly for what you use.  So long as you pay your monthly bill you will have equivalent features to a full license and be able to access to all updates and new versions of the product. Metered Licenses are the only license types that are suitable for SaaS products which target developers or any product which needs to provide an API for developers which uses Aspose functionality.
+{{< faqs 2 >}} Metered licenses are a form of "pay as you use" licensing for .NET and Java. When you purchase a Metered License you will receive a Public/Private Key pair to be set in your code instead of the usual license file; and instead of paying 'upfront' as with a standard license, you will pay for your usage monthly. When you use a Metered License your usage is recorded locally and regularly reported back to our servers, you are then billed monthly for what you use.  So long as you pay your monthly bill you will have equivalent features to a full license and be able to access to all updates and new versions of the product. Metered Licenses are the only license types that are suitable for SaaS products which target developers or any product which needs to provide an API for developers which uses GroupDocs functionality.
 
 Unmetered license types (Developer Small Business, Developer OEM, Site Small Business, Site OEM) are priced based on the number of developers using the product and the number of locations that end user software are deployed to.  The full cost of the license must be paid before the license is released (unless you are choosing an [installment plan](/policies/installment-plans)). The license includes a one year subscription to access to updates and new versions of the product. These license types do not support end user software that have an API for other developers to use.  
 
@@ -43,9 +43,9 @@ The billing period begins on the date you sign up so, for example, if you were t
 
 &nbsp;  
 ##### **4. What is the cost of Metered licenses and how do I pay?**
-{{< faqs 5 >}} A list of our prices is available, along with an interactive pricing guide for you to calculate your expected monthly cost, is available [on the Metered pricing page](/pricing/total/net/metered-oem). Both the Metered Small Business and Metered OEM license types are billed at the same rate, but only Metered OEM customers have access to [Enterprise Support](https://helpdesk.aspose.com/kb/faq/3-Enterprise-Support-Key-Benefits-Conditions).
+{{< faqs 5 >}} A list of our prices is available, along with an interactive pricing guide for you to calculate your expected monthly cost, is available [on the Metered pricing page](/pricing/total/net/metered-oem). Both the Metered Small Business and Metered OEM license types are billed at the same rate, but only Metered OEM customers have access to [Enterprise Support](https://helpdesk.groupdocs.com/kb/faq/3-Enterprise-Support-Key-Benefits-Conditions).
 
-Payment by credit card is preferred however payment by bank transfer is possible. [Contact a member of our sales team](https://about.aspose.com/contact/) and they will be glad to assist you.  
+Payment by credit card is preferred however payment by bank transfer is possible. [Contact a member of our sales team](https://about.groupdocs.com/contact/) and they will be glad to assist you.  
 
 &nbsp;  
 ##### **5. How are Metered licenses activated and how do you monitor/track the usage of my application?**
@@ -56,10 +56,10 @@ Usage is tracked by the number of open/save operations calls to our API from you
 To activate the license refer to the [Metered licensing documentation](/faqs/licensing/metered/how-to-use) for each product. 
 
 &nbsp;  
-##### **6. Are we able to easily see via the product how many credits have been reported to Aspose?**
+##### **6. Are we able to easily see via the product how many credits have been reported to GroupDocs?**
 {{< faqs 7 >}} It is easy to check your usage via the API. Refer to [the documentation](/faqs/licensing/metered/how-to-use) for further instructions. 
 
-_Note: Your local usage is only reported to Aspose intermittently, usually once per hour, so the usage amount returned by the GetConsumptionQuantity() API call may reflect this delay._  
+_Note: Your local usage is only reported to GroupDocs intermittently, usually once per hour, so the usage amount returned by the GetConsumptionQuantity() API call may reflect this delay._  
 
 &nbsp;  
 ##### **7. Can I upgrade/downgrade between Metered and Unmetered license types?**
@@ -81,17 +81,17 @@ As long as your application connects to our licensing servers at least once ever
 
 &nbsp;  
 ##### **11. How do I purchase a Metered License?**
-{{< faqs 12 >}} To purchase a Metered license head to [the purchase page](https://purchase.aspose.com/buy). Our [payment methods](/policies/payment-methods) include credit card and bank transfer. For any questions [contact a member of our sales team](https://about.aspose.com/contact/) who will be glad to assist you.  
+{{< faqs 12 >}} To purchase a Metered license head to [the purchase page](https://purchase.groupdocs.com/buy). Our [payment methods](/policies/payment-methods) include credit card and bank transfer. For any questions [contact a member of our sales team](https://about.groupdocs.com/contact/) who will be glad to assist you.  
 
 &nbsp;  
 ##### **12. Can I test the product before signing up for a Metered License?**
-{{< faqs 13 >}} Yes, you can [request a temporary license](/temporary-license) to fully test Aspose products. This free temporary license is unmetered and is used for testing only. Once you are ready for a production license you can proceed to [purchase](https://purchase.aspose.com/buy) a Metered license.  
+{{< faqs 13 >}} Yes, you can [request a temporary license](/temporary-license) to fully test GroupDocs products. This free temporary license is unmetered and is used for testing only. Once you are ready for a production license you can proceed to [purchase](https://purchase.groupdocs.com/buy) a Metered license.  
 
 &nbsp;  
 
 {{< questions-start >}}
 ##### Questions?
-If you have any questions or problems, please feel free to [contact our sales support](https://about.aspose.com/contact/) who will be glad to assist.
+If you have any questions or problems, please feel free to [contact our sales support](https://about.groupdocs.com/contact/) who will be glad to assist.
 {{< questions-end >}}
 
 {{< end-content >}}

@@ -1,6 +1,6 @@
 ---
 head_name: "Subscriptions"
-page_title: "Subscriptions - Purchase - aspose.com"
+page_title: "Subscriptions - Purchase - groupdocs.com"
 description: "Frequently asked questions about subscriptions."
 base_url: ""
 ---
@@ -27,7 +27,7 @@ base_url: ""
 
 ##### **1. What do you mean by subscription?**
 
-{{< faqs 2 >}} The term subscription refers to our update service. A subscription entitles you to one year of product updates. When the year has passed you are still licensed to use to the product so your existing applications that use Aspose will continue to function but to download and use further updates to the product you have to renew your subscription.  
+{{< faqs 2 >}} The term subscription refers to our update service. A subscription entitles you to one year of product updates. When the year has passed you are still licensed to use to the product so your existing applications that use GroupDocs will continue to function but to download and use further updates to the product you have to renew your subscription.  
 
 &nbsp;  
 
@@ -71,19 +71,19 @@ The price of renewing a valid subscription is 50% of the current product price. 
 
 ##### **7. I submitted an issue last week and my subscription will expire next week. Can you promise to have the fix ready before my subscription expires so that I can be sure to get it without having to extend the subscription?**
 
-{{< faqs 8 >}} Aspose support works on a first-come-first-served principle. We cannot promise that your issue will be fixed before your subscription expires. Everyone on our free support gets the same level of attention. Consider purchasing [paid support](https://helpdesk.aspose.com/kb/faq/1-Introduction-to-Paid-Support-Services) if you want your issues to get higher priority.  
+{{< faqs 8 >}} GroupDocs support works on a first-come-first-served principle. We cannot promise that your issue will be fixed before your subscription expires. Everyone on our free support gets the same level of attention. Consider purchasing [paid support](https://helpdesk.groupdocs.com/kb/faq/1-Introduction-to-Paid-Support-Services) if you want your issues to get higher priority.  
 
 &nbsp;  
 
 ##### **8. What happens if a product is discontinued?**
 
-{{< faqs 9 >}} Aspose does not discontinue products if they are not gaining traction, instead they are merged into an existing product. Read more about [Migrated Products](/policies/migrated-products). 
+{{< faqs 9 >}} GroupDocs does not discontinue products if they are not gaining traction, instead they are merged into an existing product. Read more about [Migrated Products](/policies/migrated-products). 
 
 &nbsp;  
 
 ##### **9. If I find a problem in a product, will you fix it?**
 
-{{< faqs 10 >}} Yes, you can report a bug on the [Free Support Forums](https://forum.aspose.com/) and it will be looked at by the development team. Although we strive to implement all features and improvements each product works to a certain road map and there is no guarantee that what you request will be resolved. Remember: we only add a fix to the latest version of the software so you need an active subscription (one that is not expired) in order to use the latest version.
+{{< faqs 10 >}} Yes, you can report a bug on the [Free Support Forums](https://forum.groupdocs.com/) and it will be looked at by the development team. Although we strive to implement all features and improvements each product works to a certain road map and there is no guarantee that what you request will be resolved. Remember: we only add a fix to the latest version of the software so you need an active subscription (one that is not expired) in order to use the latest version.
 
 We strongly suggest that our users protect their investment by making sure that they have an up to date subscription. A subscription entitles you to free updates and fixes for a year and means that you will always have the very latest software.  
 
@@ -91,7 +91,7 @@ We strongly suggest that our users protect their investment by making sure that 
 
 ##### **10. Can I make a feature request?**
 
-{{< faqs 11 >}} Yes! While we can not add every feature, our development teams know that if one company has a need that others may as well. We are always open to new ideas and suggestions for improvement. Customer feedback is what helps Aspose to have excellent, feature-rich products. Feature requests are reported on the [Free Support Forums](https://forum.aspose.com/). 
+{{< faqs 11 >}} Yes! While we can not add every feature, our development teams know that if one company has a need that others may as well. We are always open to new ideas and suggestions for improvement. Customer feedback is what helps GroupDocs to have excellent, feature-rich products. Feature requests are reported on the [Free Support Forums](https://forum.groupdocs.com/). 
 
 &nbsp;  
 
@@ -112,7 +112,7 @@ We strongly suggest that our users protect their investment by making sure that 
 You will need to renew both subscriptions at the same time. **Subscription B** will be renewed for one year and **Subscription A** will be renewed pro-rata for one year and three months.
 
  
-Since these scenarios can be complicated to synchronize two or more orders [contact the sales team](https://about.aspose.com/contact/) with your 12 digit order IDs ready.  
+Since these scenarios can be complicated to synchronize two or more orders [contact the sales team](https://about.groupdocs.com/contact/) with your 12 digit order IDs ready.  
 
 &nbsp;  
 
@@ -126,7 +126,7 @@ Renewing fewer licenses or requesting to go from higher license type like Develo
 
 ##### **14. Is there a maximum number of years of software maintenance I can purchase at a time?**
 
-{{< faqs 15 >}} Yes. When placing an order the maximum subscription period for **Aspose.Total is 2 years** and for **all other products is 4 years**. When you renew your subscription you will receive a renewal discount for all subscription years in your order   
+{{< faqs 15 >}} Yes. When placing an order the maximum subscription period for **GroupDocs.Total is 2 years** and for **all other products is 4 years**. When you renew your subscription you will receive a renewal discount for all subscription years in your order   
 
 &nbsp;  
 
@@ -134,13 +134,13 @@ Renewing fewer licenses or requesting to go from higher license type like Develo
 
 {{< faqs 16 >}} Yes. Although we recommend you to purchase along with your license which can you do on step 3 of check out you can also add paid support to an existing subscription.
 
-To add paid support to an order head to [My Orders and Quotes](https://purchase.aspose.com/) and click **Review** on the order to add paid support. Click **Add Paid Support** and following the steps from there. Keep in mind that paid support must be added to a subscription that is active (not expired) and purchasing it does not change the expiry date of the subscription.   
+To add paid support to an order head to [My Orders and Quotes](https://purchase.groupdocs.com/) and click **Review** on the order to add paid support. Click **Add Paid Support** and following the steps from there. Keep in mind that paid support must be added to a subscription that is active (not expired) and purchasing it does not change the expiry date of the subscription.   
 
 &nbsp;
   
 {{< questions-start >}}
 ##### Questions?
-If you have any questions or problems, please feel free to [contact our sales support](https://about.aspose.com/contact/) who will be glad to assist.
+If you have any questions or problems, please feel free to [contact our sales support](https://about.groupdocs.com/contact/) who will be glad to assist.
 {{< questions-end >}}
 
 {{< end-content >}}
