@@ -1,0 +1,10 @@
+baseURL = 'https://www.groupdocs.com/'
+languageCode = 'en-us'
+title = 'Policies - Groupdocs'
+theme = "policies"
+enableRobotsTXT = true
+
+[module]
+[[module.mounts]]
+ source = "assets/images"
+ target = "assets/images"
