@@ -1,4 +1,4 @@
-baseURL = 'https://www.groupdocs.com/'
+baseURL = 'https://groupdocs-policies-test.netlify.app/'
 languageCode = 'en-us'
 title = 'Policies - Groupdocs'
 theme = "policies"
