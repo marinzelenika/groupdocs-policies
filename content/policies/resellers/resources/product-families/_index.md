@@ -7,7 +7,7 @@ base_url: ""
 {{< rightPanel >}}
 {{< start-content >}}
 ##### **Product Information**  
-[Download a brief overview of all of our products](http://www.groupdocs.com/ResellerResources/reseller_product_overview.pdf) (PDF). Feel free to use the text for your own website.  
+Follow the link below to learn more about the product and platforms that belong to each product family. 
 {{< product-families >}}
 
 {{< end-content >}}
